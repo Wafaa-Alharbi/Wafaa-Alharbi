@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wafaa Alharbi
+- 👋 Hi, I’m Wafaa
 - 👀 I’m interested in Data Science and Artificial intelligence
 - 🌱 I’m currently learning Data Science
 - 📫 reach me at Loy2456@gmail.com 
